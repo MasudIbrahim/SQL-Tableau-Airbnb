@@ -7,7 +7,7 @@ I transformed the raw data by creating a dashboard in Tableau and used SQL queri
 ### Dashboard
 [Click here](https://public.tableau.com/app/profile/masud.ibrahim/viz/AirBnBsNYC_16861432541250/Dashboard1) to view the interactive dashboard on tableau public.
   
-![Dashboard 1 (2)](https://github.com/MasudIbrahim/Airbnb-Project/assets/86682483/e465ae55-b548-4d27-ba04-d7d4ed0d635e)  
+![Dashboard 1 (2)](https://github.com/MasudIbrahim/Airbnb-Project/assets/86682483/c3c516e7-3913-45bf-966d-25276ed7f7bf)
 
 ### Findings
 The top host in NYC by total reviews is Maya with 2273 reviews and an avg price of $42.60 in East Elmhurst, Queens.<BR>
