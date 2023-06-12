@@ -2,7 +2,7 @@
 
 ### Background info
 I used an airbnb [dataset](ab_nyc.csv) to answer questions useful to those looking for a rental in NYC.<BR>
-I transformed the raw data by creating a dashboard in Tableau and used SQL queries to back up the findings.
+I transformed the raw data creating a dashboard in Tableau and used SQL queries to back up the findings.
 
 ### Dashboard
 [Click here](https://public.tableau.com/app/profile/masud.ibrahim/viz/AirBnBsNYC_16861432541250/Dashboard1) to view the interactive dashboard on tableau public.
